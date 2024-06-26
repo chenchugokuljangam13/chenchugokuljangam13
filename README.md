@@ -1,3 +1,21 @@
+
+
+
+<!--
+**chenchugokuljangam13/chenchugokuljangam13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 <h3 align="left">Hi there, I'm Gokul! 👋</h3>
 <p align="left">
 </p>
@@ -9,6 +27,3 @@ As a recent B.Tech in Computer Science Engineering graduate from Sree Rama Engin
 1. **Programming Languages**: Python, Java, HTML
 2. **Tools & Technologies**: PyCharm, Visual Studio Code, SQLite, Git & GitHub
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chenchugokuljangam13&label=Profile%20views&color=0e75b6&style=flat" alt="chenchugokuljangam13" /> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chenchugokuljangam13
