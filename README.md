@@ -21,7 +21,10 @@ Here are some ideas to get you started:
 </p>
 
 ## 🔭 About
-As a recent B.Tech in Computer Science Engineering graduate from Sree Rama Engineering College, I have a strong foundation in programming, data analytics, and cloud computing. With my graduation in 2024, I am eager to contribute to a dynamic team in roles that offer growth through continuous learning and dedication. I am actively seeking opportunities in software engineering and data analytics.
+
+I am a B.Tech in Computer Science Engineering graduate from Sree Rama Engineering College, with a strong foundation in programming, data analytics, and cloud computing. Graduated in 2024, I am eager to contribute to a dynamic team, driven by continuous learning and dedication. Actively seeking challenging roles in software engineering and data analytics to apply my skills and grow professionally.
+
+
 
 **🌱 Technical Skills**
 1. **Programming Languages**: Python, Java, HTML
