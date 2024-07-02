@@ -27,6 +27,6 @@ I am a B.Tech in Computer Science Engineering graduate from JNTU University, wit
 
 
 **🌱 Technical Skills**
-1. **Programming Languages**: Python, Java, HTML
-2. **Tools & Technologies**: PyCharm, Visual Studio Code, SQLite, Git & GitHub
+1. **Programming Languages**: Python, Java, HTML,CSS
+2. **Tools & Technologies**: PyCharm, Visual Studio Code, SQLite, Git & GitHub,AWS,Machine learning
 
