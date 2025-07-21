@@ -1,32 +1,55 @@
-
-
-
-<!--
-**chenchugokuljangam13/chenchugokuljangam13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h3 align="left">Hi there, I'm Gokul! 👋</h3>
+
 <p align="left">
+I'm a passionate Backend Developer currently working at <strong>AntStack</strong>, where I specialize in building scalable, cloud-native applications using serverless technologies.
 </p>
 
-## 🔭 About
+---
 
-I am a B.Tech in Computer Science Engineering graduate from JNTU University, with a strong foundation in programming, data analytics, and cloud computing. Graduated in 2024, I am eager to contribute to a dynamic team, driven by continuous learning and dedication. Actively seeking challenging roles in software engineering and data analytics to apply my skills and grow professionally.
+## 🔭 About Me
 
+I hold a B.Tech in Computer Science Engineering from JNTU University, class of 2024. With a strong foundation in software engineering, cloud computing, and full-stack development, I’m driven by curiosity and committed to continuous learning. I enjoy solving real-world problems and contributing to impactful projects.
 
+Currently, I'm focused on building robust backend services using modern tools and frameworks, and exploring advanced cloud-native architectures.
 
-**🌱 Technical Skills**
-1. **Programming Languages**: Python, Java, HTML,CSS
-2. **Tools & Technologies**: PyCharm, Visual Studio Code, SQLite, Git & GitHub,AWS and Machine learning
+---
 
+## 💻 Technical Skills
+
+- **Languages**: Python, JavaScript, TypeScript, Java, HTML, CSS  
+- **Frameworks**: Django, Node.js  
+- **Cloud & DevOps**: AWS (Lambda, API Gateway, DynamoDB, S3), Serverless Framework  
+- **Tools**: Git & GitHub, PyCharm, Visual Studio Code  
+- **Databases**: SQLite, DynamoDB  
+- **Others**: REST APIs, JSON, Swagger, CI/CD (GitHub Actions), Postman
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced AWS Serverless Patterns  
+- Type-safe backend development with TypeScript  
+- System Design & Scalable Architecture  
+
+---
+
+## 🤝 Open to Collaborate On
+
+- Backend API development  
+- Serverless application architecture  
+- Python & Django-based web platforms  
+- Cloud-native projects using AWS  
+
+---
+
+## 📫 How to Reach Me
+
+- Email: jangamchenchugokul@gmail.com  
+- LinkedIn: [linkedin.com/in/chenchugokuljangam13](https://linkedin.com/in/chenchugokuljangam13)  
+- GitHub: [@chenchugokuljangam13](https://github.com/chenchugokuljangam13)
+
+---
+
+## ⚡ Fun Fact
+
+I love turning complex logic into clean, maintainable code — and I'm always up for a good debugging challenge! 🛠️
